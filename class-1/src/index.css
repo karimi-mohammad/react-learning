@@ -1,0 +1,15 @@
+.row{
+  /* background-color: ; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.row *{
+  margin: 1%;
+}
+body{
+  direction: rtl;
+}
+input{
+  height: fit-content;
+}
